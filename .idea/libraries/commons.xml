@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="commons">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../commons" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../commons/docs/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../commons" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../commons" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../commons" recursive="false" type="SOURCES" />
+  </library>
+</component>
